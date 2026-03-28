@@ -73,7 +73,7 @@ cavis-project/
 
 1️⃣ Clone Repository
 
-git clone https://github.com/your-username/ai-notes-app.git
+git clone https://github.com/shashiskr14-creator/ai-notes-app
 cd ai-notes-app
 
 2️⃣ Backend Setup
@@ -111,8 +111,6 @@ Tagging system
 Dark mode
 Deployment (Vercel + Render)
 
-                        📸 Demo
-Add screenshots or demo video here (optional)
 
 📌 Author
 
